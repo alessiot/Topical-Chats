@@ -4,7 +4,7 @@ Author: Alessio Tamburro
 
 Date: 05/05/2021
 
-Status: Under development
+Status: Experimenting
 
 The data used in this project is from https://github.com/alexa/Topical-Chat.
 
